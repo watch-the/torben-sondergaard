@@ -75,6 +75,3 @@ Please help support in this fight with prayers and money if you like to help.
 ---
 
 [List Of Future Web-Sites](https://the-lord-jesus-will.github.io/show-you/).
-
----
-
