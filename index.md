@@ -1,4 +1,10 @@
-<img src="./assets/s1.webp" alt="s1" style="zoom: 33%;" />
+
+
+<p><video src="./assets/Thoose-Theme-Below.webm" autoplay loop muted></video></p>
+
+[Dark Theme](./index.html) / [Light Theme](./index-2.html).
+
+<p><video src="./assets/Torben-Sondergaard-10-9-2023.webm" autoplay loop muted></video></p>
 
 ![s2](./assets/s2.webp)
 
@@ -71,6 +77,24 @@ Please help support in this fight with prayers and money if you like to help.
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TiTJ0Z76oLU?si=yCOJMmFI5k3Et3Jq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+![s7](./assets/s7.webp)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BdIyXIGVJEI?si=_3I7pohdDgD9EcOX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+![s8](./assets/s8.webp)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ZtcEoavZ8g?si=-dTXj8kLpx7XQ1GN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+![s9](./assets/s9.webp)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hIiqd2IMeLc?si=TeiP0J8ykyx_RQIJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
